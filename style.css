@@ -1,0 +1,58 @@
+.calculatorFrame {
+    border: 1px solid black;
+    height: 100vh;
+    background-color: ghostwhite;
+    border-radius: 8px;
+}
+
+.screenBorder {
+    height: 3vh;
+}
+
+.screen {
+    border: 1px solid black;
+    height: 15vh;
+    background-color: skyblue;
+    border-radius: 8px;
+    font-size: 6vh;
+}
+
+.buttonsBorder {
+    height: 5vh;
+}
+
+.clearall, .clearone {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 5vh;
+    background-color: lightyellow;
+    border-radius: 8px;
+    height: 12vh;
+}
+
+.numbersBorder {
+    height: 2vh;
+}
+
+.number, #decimal, .equals {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 5vh;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: lightgreen;
+    border-radius: 8px;
+    height: 12vh;
+}
+
+.operator {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 5vh;
+    background-color: pink;
+    border-radius: 8px;
+    height: 11.5vh;
+}
+
+#plus {
+    height: 27.5vh;
+}
